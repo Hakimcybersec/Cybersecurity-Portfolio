@@ -34,13 +34,13 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 
 ## Featured Projects
 
-- [Penetration Testing Labs](./penetration-testing-labs)  
-- [Vulnerability Assessment & Risk Analysis](./vulnerability-assessment-risk-analysis)  
-- [Incident Response Investigation](./incident-response-investigation)  
-- [Digital Forensics Lab](./digital-forensics-lab)  
-- [Cryptography Fundamentals](./cryptography-fundamentals)  
-- [Threats & Social Engineering Analysis](./threats-social-engineering-analysis)  
-- [IoT & CPS Security Review](./iot-cps-security-review)  
+- [Penetration Testing Practice Labs](./penetration-testing-practice-labs)  
+- [Vulnerability Assessment Practice](./vulnerability-assessment-practice)  
+- [Incident Response Practice](./incident-response-practice)  
+- [Digital Forensics Practice](./digital-forensics-practice)  
+- [Cryptography Practice](./cryptography-practice)  
+- [Social Engineering Practice](./social-engineering-practice)  
+- [IoT & CPS Security Practice](./iot-cps-security-practice)  
   
 ---
 

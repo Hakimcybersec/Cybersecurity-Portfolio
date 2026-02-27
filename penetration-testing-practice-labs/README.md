@@ -1,4 +1,4 @@
-# Penetration Testing Practice Labs
+# Practice Labs
 
 This folder contains a collection of **hands-on cybersecurity practice exercises**, independently executed to develop practical skills in offensive and defensive security.  
 

@@ -35,7 +35,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 ## Practice Labs
 All practice labs are organized under:
 
-- [Penetration Testing Practice Labs](./penetration-testing-practice-labs)
+- [Practice Labs](./practice-labs)
 
 ## Projects
 - Metasploit VM

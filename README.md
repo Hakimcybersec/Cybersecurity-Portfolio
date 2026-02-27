@@ -32,7 +32,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 
 ---
 
-## Featured Projects
+## Practice Labs
 
 - [Penetration Testing Practice Labs](./penetration-testing-practice-labs)  
 - [Vulnerability Assessment Practice](./vulnerability-assessment-practice)  
@@ -41,6 +41,8 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - [Cryptography Practice](./cryptography-practice)  
 - [Social Engineering Practice](./social-engineering-practice)  
 - [IoT & CPS Security Practice](./iot-cps-security-practice)  
+
+## Projects
   
 ---
 

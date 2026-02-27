@@ -48,4 +48,4 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Improving detection engineering skills
 - Building structured incident response documentation
 - Strengthening web application security testing knowledge
-- Learning Progamming languages (Python & Bash)
+- Learning progamming languages (Python & Bash)

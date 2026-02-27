@@ -38,13 +38,6 @@ All practice labs are organized under:
 
 - [Penetration Testing Practice Labs](./penetration-testing-practice-labs)
 
-- Vulnerability Assessment Practice
-- Incident Response Practice  
-- Digital Forensics Practice
-- Cryptography Practice
-- Social Engineering Practice
-- IoT & CPS Security Practice
-
 ## Projects
   
 ---

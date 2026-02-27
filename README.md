@@ -32,8 +32,8 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 
 ---
 
-## Practice Labs
-All practice labs are organized under:
+## Labs
+All labs are organized under:
 
 - [Practice Labs](./practice-labs)
 

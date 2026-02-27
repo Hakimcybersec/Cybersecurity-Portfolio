@@ -28,6 +28,12 @@ The exercises are based on publicly shared UWA CITS1003 labs and cover a wide ra
 
 ---
 
+# Requirements
+- Kali Linux
+- VMware or Virtual Box
+
+---
+
 ## 📂 Practice Subfolders
 
 Each subfolder contains a specific set of exercises:

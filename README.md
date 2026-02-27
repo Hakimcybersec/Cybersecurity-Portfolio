@@ -33,12 +33,17 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 ---
 
 ## Practice Labs
-- [Vulnerability Assessment Practice](./vulnerability-assessment-practice)  
-- [Incident Response Practice](./incident-response-practice)  
-- [Digital Forensics Practice](./digital-forensics-practice)  
-- [Cryptography Practice](./cryptography-practice)  
-- [Social Engineering Practice](./social-engineering-practice)  
-- [IoT & CPS Security Practice](./iot-cps-security-practice)  
+
+All practice labs are organized under:
+
+- [Penetration Testing Practice Labs](./penetration-testing-practice-labs)
+
+- Vulnerability Assessment Practice
+- Incident Response Practice  
+- Digital Forensics Practice
+- Cryptography Practice
+- Social Engineering Practice
+- IoT & CPS Security Practice
 
 ## Projects
   

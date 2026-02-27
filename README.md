@@ -44,3 +44,4 @@ I focus on understanding both attacker techniques and defensive detection strate
 - Improving detection engineering skills
 - Building structured incident response documentation
 - Strengthening web application security testing knowledge
+- Learning Progamming languages (Python & Bash)

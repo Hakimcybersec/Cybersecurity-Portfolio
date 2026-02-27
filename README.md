@@ -33,8 +33,6 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 ---
 
 ## Practice Labs
-
-- [Penetration Testing Practice Labs](./penetration-testing-practice-labs)  
 - [Vulnerability Assessment Practice](./vulnerability-assessment-practice)  
 - [Incident Response Practice](./incident-response-practice)  
 - [Digital Forensics Practice](./digital-forensics-practice)  

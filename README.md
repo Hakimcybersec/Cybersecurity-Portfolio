@@ -1,9 +1,9 @@
 # Cybersecurity-Portfolio
 # Hakim Azizan
 
-A student studying in Equinim College aspiring to be a Cybersecurity Analyst and Penetration Tester with hands-on experience in Security Operations, Incident Detection, Vulnerability Assessment, Penetration Testing labs and CTF.
+A student studying in Equinim College aspiring to be a Cybersecurity Analyst and Penetration Tester with hands-on experience in vulnerability assessment, exploitation fundamentals, incident investigation, digital forensics, and structured CTF-style labs. 
 
-Focused on understanding both attacker techniques and defensive detection strategies to improve organizational security posture.
+Focused on identifying security weaknesses, analysing attacker techniques, and delivering risk-based remediation aligned with professional security practices.
 
 ---
 
@@ -14,30 +14,34 @@ Focused on understanding both attacker techniques and defensive detection strate
 
 ## Core Skills
 
-### Blue Team
-- Log Analysis (SIEM fundamentals)
-- Incident Response lifecycle
-- Network Traffic Analysis (Wireshark)
-- Threat Detection & IOC identification
-- MITRE ATT&CK Mapping
 
 ### Offensive Security
-- Reconnaissance (Nmap, OSINT)
-- Web Application Testing (OWASP Top 10)
-- Exploitation fundamentals
-- Privilege Escalation concepts
-- Basic Metasploit usage
+- Reconnaissance & Enumeration (Nmap, service analysis)
+- Web Application Testing (OWASP Top 10 concepts)
+- Vulnerability Identification & Risk Classification
+- Exploitation Fundamentals (controlled lab environments)
+- Privilege Escalation Concepts
+- Attack Surface Mapping
+
+### Defensive & Analytical Skills
+- Incident Response Lifecycle
+- Log Analysis & IOC Identification
+- Attack Timeline Reconstruction
+- MITRE ATT&CK Familiarity
+- Risk Assessment & Remediation Planning
 
 ---
 
 ## Featured Projects
 
-- SOC Lab – Attack Detection Simulation
-- Log Analysis & Threat Hunting Investigation
-- Vulnerability Assessment & Risk Prioritisation
-- Pentesting Lab Writeups (Red Team Simulations)
-- Network Hardening & Security Configuration
-
+- Penetration Testing Lab Writeups  
+- Vulnerability Assessment & Risk Analysis  
+- Incident Response Investigation  
+- Digital Forensics Lab  
+- Cryptography Fundamentals  
+- Threats & Social Engineering Analysis  
+- IoT & CPS Security Review
+  
 ---
 
 ## Current Focus

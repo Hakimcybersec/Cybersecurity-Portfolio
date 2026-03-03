@@ -33,7 +33,6 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 ---
 
 ## Labs
-All labs are organized under:
 
 - [Practice Labs](./practice-labs)
 - OverTheWire

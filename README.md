@@ -37,10 +37,13 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - [Practice Labs](./practice-labs)
 - OverTheWire
 - VulnHub
+- picoGym
+- OWASP Juiceshop
+
+
 
 ## Projects
 - Metasploit VM
-
   
 ---
 
@@ -49,3 +52,8 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Building structured incident response documentation
 - Strengthening web application security testing knowledge
 - Learning progamming languages (Python & Bash)
+
+
+
+# Personal Cybersecurity Roadmap
+https://roadmap.sh/cyber-security?s=69aa428447536ddad121cfc9

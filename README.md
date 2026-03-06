@@ -41,11 +41,11 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - OWASP Juiceshop
 
 
-
 ## Projects
 - Metasploit VM
   
 ---
+
 
 ## Current Focus
 - Improving detection engineering skills
@@ -53,7 +53,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Strengthening web application security testing knowledge
 - Learning progamming languages (Python & Bash)
 
-
+---
 
 # Personal Cybersecurity Roadmap
 https://roadmap.sh/cyber-security?s=69aa428447536ddad121cfc9

@@ -54,6 +54,3 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Learning progamming languages (Python & Bash)
 
 ---
-
-# Personal Cybersecurity Roadmap
-https://roadmap.sh/cyber-security?s=69aa428447536ddad121cfc9

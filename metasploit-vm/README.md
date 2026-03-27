@@ -23,13 +23,8 @@ Full methodology documented here:
 ## Key Areas
 
 
-- [Nmap Scan Results](./scans/nmap-scan.md)  
-- [Initial Access](./findings/initial-access.md)  
-- [Exploitation Overview](./findings/exploitation.md)  
-- [vsftpd Backdoor Exploit](./findings/vsftpd-backdoor.md)  
-- [NFS Exploitation](./findings/nfs-exploitation.md)  
-- [Unix Remote Services Exploitation](./findings/unix-r-services.md)  
-- [Privilege Escalation](./findings/privilege-escalation.md)
+- [Nmap Scan Results](./scans/nmap-scan.md)
+- 
 
 ---
 

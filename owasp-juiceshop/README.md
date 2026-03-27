@@ -9,10 +9,12 @@ Hands-on security testing of OWASP Juice Shop, an intentionally vulnerable web a
 - Input validation and business logic flaws
 
 ## Tools Used
+- VMware/Virtual Box
 - OWASP Juice Shop
 - Burp Suite
 - Browser Developer Tools
 - Docker
+- Kali Linux
 ## Approach
 - Identified attack surface and entry points  
 - Tested for common web vulnerabilities  

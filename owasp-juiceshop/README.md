@@ -23,3 +23,12 @@ Hands-on security testing of OWASP Juice Shop, an intentionally vulnerable web a
 
 ## Notes
 This project was completed independently to build practical web application security testing skills in a controlled environment.
+
+## License & Attribution
+
+OWASP Juice Shop is developed by the OWASP Foundation and licensed under the MIT License.
+
+© OWASP Foundation  
+https://owasp.org  
+
+This project uses OWASP Juice Shop strictly for educational and security testing purposes.

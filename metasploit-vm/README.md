@@ -1,26 +1,31 @@
-# Metasploit VM – Security Assessment Labs
+# Metasploit VM – Penetration Testing Lab
 
 ## Overview
-This project documents hands-on security testing performed using Metasploit VM, a deliberately vulnerable environment designed to practice penetration testing techniques.
+This project documents a structured penetration testing lab conducted against Metasploit VM, a deliberately vulnerable environment.
 
-The focus is on identifying vulnerabilities, performing controlled exploitation, and understanding post-exploitation concepts within a safe lab environment.
-
----
-
-## Objectives
-- Identify vulnerabilities in target systems  
-- Perform exploitation using Metasploit Framework  
-- Understand post-exploitation techniques  
-- Develop structured penetration testing methodology  
+The objective was to identify vulnerabilities, gain initial access, and explore exploitation and post-exploitation techniques in a controlled setting.
 
 ---
 
-## Skills Demonstrated
-- Vulnerability scanning and enumeration  
-- Exploit selection and execution  
-- Payload configuration  
-- Post-exploitation concepts  
-- System access and privilege escalation awareness  
+## Scope
+- Target: Metasploit VM (local lab)
+- Environment: Controlled / isolated
+- Testing Type: Internal penetration testing
+
+---
+
+## Methodology
+Full methodology documented here:  
+→ [Methodology](./methodology.md)
+
+---
+
+## Key Areas
+
+- [Nmap Scan Results](./scans/nmap-scan.md)  
+- [Initial Access](./findings/initial-access.md)  
+- [Exploitation](./findings/exploitation.md)  
+- [Privilege Escalation](./findings/privilege-escalation.md)  
 
 ---
 
@@ -32,21 +37,10 @@ The focus is on identifying vulnerabilities, performing controlled exploitation,
 
 ---
 
-## Lab Approach
-- Reconnaissance and service enumeration  
-- Vulnerability identification  
-- Exploit execution in controlled environment  
-- Analysis of system behaviour and access gained  
-- Documentation of findings and impact  
+## Disclaimer
+All testing was conducted in a controlled lab environment using intentionally vulnerable systems for educational purposes.
 
 ---
 
-## Notes
-All activities were conducted in a controlled lab environment using intentionally vulnerable systems for educational purposes.
-
----
-
-## License & Attribution
+## Attribution
 Metasploit VM is provided for educational use by Rapid7.
-
-This project is for learning and demonstration purposes only.

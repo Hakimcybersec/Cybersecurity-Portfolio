@@ -24,7 +24,13 @@ Full methodology documented here:
 
 
 - [Nmap Scan Results](./scans/nmap-scan.md)
-- 
+- [Backdoor Exploitation](./findings/vsftpd-backdoor.md)  
+  ![Backdoor Exploit](./images/vsftpd-backdoor.png)  
+  *Figure: Exploiting the vsftpd backdoor to gain initial access.*
+
+- [Unix Basics & Remote Services](./findings/unix-r-services.md)  
+  ![Unix Services](./images/unix-r-services.png)  
+  *Figure: Enumeration and exploitation of Unix remote services.*
 
 ---
 

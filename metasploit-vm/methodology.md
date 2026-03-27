@@ -1,27 +1,25 @@
 # Methodology
 
-The penetration test followed a structured approach:
+## Privilege Context
 
-## 1. Reconnaissance
-- Identified live hosts
-- Discovered open ports and services
+During testing, elevated privileges were required for certain operations.
 
-## 2. Scanning & Enumeration
-- Performed service detection using Nmap
-- Identified potential vulnerabilities
+## Command Used
+```bash
+sudo -i
+```
 
-## 3. Initial Access
-- Selected appropriate exploit based on service/version
-- Gained access to the target system
+Purpose
+- Switch from normal user to root
+- Required for exploitation steps and system modifications
 
-## 4. Exploitation
-- Executed payloads using Metasploit
-- Established session (Meterpreter/shell)
+---
 
-## 5. Post-Exploitation
-- Enumerated system information
-- Assessed privilege level
-- Attempted privilege escalation
+Approach Summary
+1. Identify target system
+2. Perform scanning and enumeration
+3. Identify vulnerabilities
+4. Execute exploitation
+5. Attempt privilege escalation
+6. Document findings
 
-## 6. Documentation
-- Recorded findings, impact, and remediation considerations

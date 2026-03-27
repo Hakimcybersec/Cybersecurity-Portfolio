@@ -13,7 +13,7 @@ Nmap was used to scan the target machine and identify open ports and services.
 
 ## Command Used
 ```bash
-nmap -sV -sC 192.168.23.129
+nmap -sV 192.168.23.129
 ```
 ## Findings
 Multiple ports open due to intentionally vulnerable configuration

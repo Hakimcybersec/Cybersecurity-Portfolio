@@ -38,7 +38,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - OverTheWire
 - VulnHub
 - picoGym
-- OWASP Juiceshop
+- [OWASP Juiceshop](./owasp-juiceshop)
 
 
 ## Projects

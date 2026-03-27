@@ -1,34 +1,45 @@
-## Objective
-Hands-on security testing of OWASP Juice Shop, an intentionally vulnerable web application, to develop practical skills in identifying and exploiting common web vulnerabilities.
+# OWASP Juice Shop – Security Assessment
 
-## Skills Demonstrated
-- Web application reconnaissance
-- OWASP Top 10 vulnerability testing
-- SQL Injection & XSS concepts
-- Authentication & access control testing
-- Input validation and business logic flaws
+## Overview
+Structured security assessment of OWASP Juice Shop, an intentionally vulnerable web application designed for training purposes.
+
+This project focuses on identifying and analysing common web application vulnerabilities aligned with the OWASP Top 10.
+
+---
+
+## Methodology
+- Reconnaissance & Application Mapping  
+- Input Testing & Vulnerability Discovery  
+- Controlled Exploitation  
+- Impact Analysis  
+- Remediation Recommendations  
+
+---
 
 ## Tools Used
-- VMware/Virtual Box
-- OWASP Juice Shop
-- Burp Suite
-- Browser Developer Tools
+- Burp Suite  
+- Browser Developer Tools  
+- Kali Linux  
 - Docker
-- Kali Linux
-## Approach
-- Identified attack surface and entry points  
-- Tested for common web vulnerabilities  
-- Analysed application responses and behaviour  
-- Documented findings and potential impact  
+- VmWare/Virtual Box
+---
 
-## Notes
-This project was completed independently to build practical web application security testing skills in a controlled environment.
+## Findings
+
+- [SQL Injection](./findings/sql-injection.md)  
+- [Cross-Site Scripting (XSS)](./findings/xss.md)  
+- [Broken Authentication](./findings/broken-authentication.md)  
+- [Sensitive Data Exposure](./findings/sensitive-data-exposure.md)  
+
+---
+
+## Disclaimer
+Testing was conducted in a controlled lab environment using an intentionally vulnerable application for educational purposes.
+
+---
 
 ## License & Attribution
-
 OWASP Juice Shop is developed by the OWASP Foundation and licensed under the MIT License.
 
 © OWASP Foundation  
-https://owasp.org  
-
-This project uses OWASP Juice Shop strictly for educational and security testing purposes.
+https://owasp.org

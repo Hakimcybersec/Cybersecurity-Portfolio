@@ -31,6 +31,9 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Risk Assessment & Remediation Planning
 
 ---
+##
+
+---
 
 ## Labs
 
@@ -41,7 +44,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - [OWASP Juice Shop](./owasp-juiceshop)
 
 
-## Projects
+## Projects/Reports
 - [Metasploit VM](./metasploit-vm)
 -   
 ---

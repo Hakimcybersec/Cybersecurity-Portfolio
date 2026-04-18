@@ -8,7 +8,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 ---
 
 ## Certifications
-- Cisco Junior Cybersecurity Analyst
+- Google Cybersecurity Certificate
 
 ---
 

@@ -1,5 +1,3 @@
-# Metasploit2 VM – Penetration Testing Lab Report
-
 # Metasploitable2 Penetration Testing Report
 
 ## Overview

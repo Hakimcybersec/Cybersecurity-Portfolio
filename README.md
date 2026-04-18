@@ -31,24 +31,20 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Risk Assessment & Remediation Planning
 
 ---
-##
+
+## (WIP) Reported Projects
+- [Metasploit VM](./metasploit-vm)   
 
 ---
 
 ## Labs
-
 - [Practice Labs](./practice-labs)
 - OverTheWire
 - VulnHub
 - picoGym
 - [OWASP Juice Shop](./owasp-juiceshop)
 
-
-## Projects/Reports
-- [Metasploit VM](./metasploit-vm)
--   
----
-
+---  
 
 ## Current Focus
 - Improving detection engineering skills

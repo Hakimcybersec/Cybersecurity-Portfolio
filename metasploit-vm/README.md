@@ -1,4 +1,4 @@
-# Metasploit VM – Penetration Testing Lab Report
+# Metasploit2 VM – Penetration Testing Lab Report
 
 🔹 Overview
 Target: Metasploitable2 vulnerable VM

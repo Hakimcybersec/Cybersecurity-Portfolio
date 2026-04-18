@@ -1,4 +1,4 @@
-# Metasploit VM – Penetration Testing Lab
+# Metasploit VM – Penetration Testing Lab Report
 
 ## Overview
 This project documents a structured penetration testing lab conducted against Metasploit VM, a deliberately vulnerable environment.

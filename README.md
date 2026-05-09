@@ -51,5 +51,6 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - Building structured incident response documentation
 - Strengthening web application security testing knowledge
 - Learning progamming languages (Python & Bash)
+- Currently Doing Summer of CCNA course by NetworkChuck
 
 ---

@@ -1,4 +1,4 @@
-# Metasploitable2 Penetration Testing Report
+# Metasploitable2 Penetration Testing Report (WIP)
 
 ## Overview
 This repository contains a structured penetration test conducted against the Metasploitable2 vulnerable virtual machine. The objective was to identify, exploit, and analyse multiple misconfigured services and known backdoors.

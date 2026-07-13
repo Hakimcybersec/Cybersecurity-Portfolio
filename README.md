@@ -35,6 +35,12 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 ## (WIP) Reported Projects
 - [Metasploit VM](./metasploit-vm)   
 
+## 📄 Full Penetration Test Report
+
+The complete penetration testing report is available below while this repository is being converted into detailed Markdown documentation.
+
+**➡️ [View the Full Report (PDF)](./Metasploit.pdf)**
+
 ---
 
 ## Labs

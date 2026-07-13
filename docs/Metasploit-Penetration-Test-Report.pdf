@@ -1,0 +1,21 @@
+# Metasploit VM Penetration Testing Lab
+
+This repository documents a penetration testing assessment conducted against the Metasploitable 2 virtual machine in a controlled lab environment.
+
+## Current Status
+
+🚧 This repository is currently being migrated from a PDF report into individual Markdown reports with screenshots and evidence.
+
+### Current Report
+
+- [Metasploit VM Penetration Test Report](./Metasploit.pdf)
+
+## Planned Improvements
+
+- Professional README
+- Nmap reconnaissance report
+- Individual exploit write-ups
+- Evidence screenshots
+- MITRE ATT&CK mappings
+- CVE references
+- Improved documentation

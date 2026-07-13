@@ -39,9 +39,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 
 The complete penetration testing report is available below while this repository is being converted into detailed Markdown documentation.
 
-**➡️ [View the Full Report (PDF)](./Metasploit.pdf)**
-
----
+**➡️ [View the Full Report (PDF)](./docs/Metasploit.pdf)**
 
 ## Labs
 - [Practice Labs](./practice-labs)

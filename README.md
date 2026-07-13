@@ -1,4 +1,4 @@
-# Cybersecurity-Portfolio (WIP)
+# Cybersecurity-Portfolio
 # Hakim Azizan
 
 A student studying in Equinim College aspiring to be a Cybersecurity Analyst and Penetration Tester with hands-on experience in vulnerability assessment, exploitation fundamentals, incident investigation, digital forensics, and structured CTF-style labs. 

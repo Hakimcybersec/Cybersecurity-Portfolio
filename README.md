@@ -61,4 +61,5 @@ The complete penetration testing report is available below while this repository
 - Currently Doing Summer of CCNA course by NetworkChuck
 - In Progress of doing Home Siem Labs
 - In Progress of learning more about finance.
+- In Progress of doing a GitHub Foundations Certificate
 ---

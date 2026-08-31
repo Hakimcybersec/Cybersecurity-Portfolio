@@ -36,7 +36,10 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - [Metasploit VM](./metasploit-vm)   
 
 ## Current Projects
-- [Wazuh SIEM Home Lab](./wazuh-siem-home-lab)  
+- [Wazuh SIEM Home Lab](./wazuh-siem-home-lab)
+
+## Shared Projects 
+- [Project for a Hackathon] https://github.com/humairahmr/Comfort-z "Contributed to [Comfort z]"
 
 ## 📄 Full Penetration Test Report
 

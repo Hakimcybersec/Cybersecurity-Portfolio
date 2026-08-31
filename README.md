@@ -39,7 +39,7 @@ Focused on identifying security weaknesses, analysing attacker techniques, and d
 - [Wazuh SIEM Home Lab](./wazuh-siem-home-lab)
 
 ## Shared Projects 
-- [Project for a Hackathon] https://github.com/humairahmr/Comfort-z "Contributed to [Comfort z]"
+- [Project for a Hackathon] https://github.com/humairahmr/Comfort-z "Contributed to [Comfort z] via Development & Testing."
 
 ## 📄 Full Penetration Test Report
 
